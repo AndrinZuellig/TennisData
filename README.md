@@ -3,12 +3,7 @@
 This project analyzes tennis match data from ATP and Grand Slam tournaments over the past 30 years. The analysis focuses on various factors such as match duration, surface type, player characteristics, and their influence on match outcomes.
 
 ## Table of Contents:
-Project Overview
-Features
-Installation
-Usage
-Contributing
-License
+Project Overview, Features, Installation, Usage, Contributing, License
 
 #### Project Overview:
 This project provides insights into trends in tennis match data using data analysis and visualization techniques. The analyses include:
